@@ -1,0 +1,42 @@
+.App, 
+.login,
+.Dashboard{
+  text-align: center;
+  height:100%;  
+}
+
+.App-logo {
+  height: 60px;
+}
+
+.Dashboard{
+  padding:20px;
+}
+
+.centerText{
+  text-align: center;
+}
+
+.pusher{
+  width: calc(100% - 150px);
+}
+
+.recharts-wrapper{
+  margin-left: -58px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100% - 55px);
+}
+
+.container img{
+  width: auto;
+  height: 50px;
+}
+
+.ui.inverted.menu {
+  background: #828282 !important;
+}
